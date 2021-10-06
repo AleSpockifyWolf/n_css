@@ -1,0 +1,25 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 425px) {
+    .c_013 .content-zone .row, .content-zone .c_013 .row, .content-zone .grid-row {
+        padding-top: 20px;
+    }
+
+    .freeEditorial .grid-row .col-3 {
+        padding-bottom: 30px;
+        width: 100%;
+    }
+    
+    .freeEditorial .grid-row .col-3+.col-3+.col-3 {
+        padding-bottom: 0px;
+    }
+    
+    .c_001.center, .center.c_001B {
+        text-align: center;
+        padding: 0em 0;
+    }
+    
+    .c_001.center .cta-list, .c_001.center ol, .c_001.center ul, .center.c_001B .cta-list, .center.c_001B ol, .center.c_001B ul {
+        text-align: center;
+        margin: 0;
+    }
+    
+}
